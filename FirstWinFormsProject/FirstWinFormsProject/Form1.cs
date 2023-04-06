@@ -14,13 +14,28 @@ namespace FirstWinFormsProject
     {
         public Form1()
         {
+
             #region First_Task
+            First_Task();
+            #endregion
+            #region Second_Task
+            Second_Task();
+            #endregion
+
+            InitializeComponent();
+            FormBorderStyle = FormBorderStyle.FixedSingle;
+            MaximizeBox = false;
+
+        }
+
+        public void First_Task()
+        {
             int length = 0;
-            string[] CW = { 
+            string[] CW = {
                 "Name: Vladislav\n",
                 "Surname:Karlinskyi\n",
                 "Date of birth: 23th January 2004\n",
-                "Programm languages: C++, C#, Python\n" 
+                "Programm languages: C++, C#, Python\n"
             };
             foreach (string c in CW)
             {
@@ -29,12 +44,6 @@ namespace FirstWinFormsProject
             }
 
             MessageBox.Show((length / CW.Length).ToString() + "is average characters in message");
-            #endregion
-            #region Second_Task
-            Second_Task();
-            #endregion
-
-            InitializeComponent();
         }
 
         public void Second_Task()
@@ -63,6 +72,38 @@ namespace FirstWinFormsProject
                 if (result != DialogResult.Yes)
                     break;
             }
+        }
+
+        private void Form1_MouseClick(object sender, MouseEventArgs e)
+        {
+             if (e.Button == MouseButtons.Left && ModifierKeys == Keys.Control)
+            {
+                this.Close();
+            }
+            else if (e.Button == MouseButtons.Left)
+            {
+                if ((e.X < 10 || e.X > Size.Width - 10) && (e.Y < 10 || e.Y > Size.Height - 10))
+                {
+                    MessageBox.Show("You click out of rectangle");
+
+                }
+                else if ((e.X > 10 && e.X < Size.Width - 10) && (e.Y > 10 && e.Y < Size.Height - 10))
+                {
+                    MessageBox.Show("You click in rectangle");
+                }
+                else
+                {
+                    MessageBox.Show("You click right on rectangle");
+
+                }
+            }
+           
+        }
+
+        private void Form1_MouseMove(object sender, MouseEventArgs e)
+        {
+            Form frm = (Form)sender;
+            frm.Text = String.Format("x = {0}  y = {1}", e.X, e.Y);
         }
     }
 }
