@@ -1,0 +1,11 @@
+C:\Step\2year\WinForms\Quiz\Quiz\bin\Debug\Quiz.exe.config
+C:\Step\2year\WinForms\Quiz\Quiz\bin\Debug\Quiz.exe
+C:\Step\2year\WinForms\Quiz\Quiz\bin\Debug\Quiz.pdb
+C:\Step\2year\WinForms\Quiz\Quiz\obj\Debug\Quiz.csproj.AssemblyReference.cache
+C:\Step\2year\WinForms\Quiz\Quiz\obj\Debug\Quiz.csproj.SuggestedBindingRedirects.cache
+C:\Step\2year\WinForms\Quiz\Quiz\obj\Debug\Quiz.Form1.resources
+C:\Step\2year\WinForms\Quiz\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+C:\Step\2year\WinForms\Quiz\Quiz\obj\Debug\Quiz.csproj.GenerateResource.cache
+C:\Step\2year\WinForms\Quiz\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+C:\Step\2year\WinForms\Quiz\Quiz\obj\Debug\Quiz.exe
+C:\Step\2year\WinForms\Quiz\Quiz\obj\Debug\Quiz.pdb
