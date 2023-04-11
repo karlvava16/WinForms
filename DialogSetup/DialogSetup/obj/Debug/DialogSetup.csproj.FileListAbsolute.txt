@@ -1,0 +1,12 @@
+C:\Step\2year\WinForms\DialogSetup\DialogSetup\bin\Debug\DialogSetup.exe.config
+C:\Step\2year\WinForms\DialogSetup\DialogSetup\bin\Debug\DialogSetup.exe
+C:\Step\2year\WinForms\DialogSetup\DialogSetup\bin\Debug\DialogSetup.pdb
+C:\Step\2year\WinForms\DialogSetup\DialogSetup\obj\Debug\DialogSetup.csproj.AssemblyReference.cache
+C:\Step\2year\WinForms\DialogSetup\DialogSetup\obj\Debug\DialogSetup.csproj.SuggestedBindingRedirects.cache
+C:\Step\2year\WinForms\DialogSetup\DialogSetup\obj\Debug\DialogSetup.Form1.resources
+C:\Step\2year\WinForms\DialogSetup\DialogSetup\obj\Debug\DialogSetup.Form2.resources
+C:\Step\2year\WinForms\DialogSetup\DialogSetup\obj\Debug\DialogSetup.Properties.Resources.resources
+C:\Step\2year\WinForms\DialogSetup\DialogSetup\obj\Debug\DialogSetup.csproj.GenerateResource.cache
+C:\Step\2year\WinForms\DialogSetup\DialogSetup\obj\Debug\DialogSetup.csproj.CoreCompileInputs.cache
+C:\Step\2year\WinForms\DialogSetup\DialogSetup\obj\Debug\DialogSetup.exe
+C:\Step\2year\WinForms\DialogSetup\DialogSetup\obj\Debug\DialogSetup.pdb

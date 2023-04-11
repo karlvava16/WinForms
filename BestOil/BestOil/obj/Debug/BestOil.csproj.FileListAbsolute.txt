@@ -1,0 +1,13 @@
+C:\Step\2year\WinForms\BestOil\BestOil\bin\Debug\BestOil.exe.config
+C:\Step\2year\WinForms\BestOil\BestOil\bin\Debug\BestOil.exe
+C:\Step\2year\WinForms\BestOil\BestOil\bin\Debug\BestOil.pdb
+C:\Step\2year\WinForms\BestOil\BestOil\obj\Debug\BestOil.csproj.AssemblyReference.cache
+C:\Step\2year\WinForms\BestOil\BestOil\obj\Debug\BestOil.csproj.SuggestedBindingRedirects.cache
+C:\Step\2year\WinForms\BestOil\BestOil\obj\Debug\BestOil.BestOil.resources
+C:\Step\2year\WinForms\BestOil\BestOil\obj\Debug\BestOil.Form2.resources
+C:\Step\2year\WinForms\BestOil\BestOil\obj\Debug\BestOil.Form3.resources
+C:\Step\2year\WinForms\BestOil\BestOil\obj\Debug\BestOil.Properties.Resources.resources
+C:\Step\2year\WinForms\BestOil\BestOil\obj\Debug\BestOil.csproj.GenerateResource.cache
+C:\Step\2year\WinForms\BestOil\BestOil\obj\Debug\BestOil.csproj.CoreCompileInputs.cache
+C:\Step\2year\WinForms\BestOil\BestOil\obj\Debug\BestOil.exe
+C:\Step\2year\WinForms\BestOil\BestOil\obj\Debug\BestOil.pdb
