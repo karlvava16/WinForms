@@ -1,0 +1,11 @@
+C:\Step\2year\WinForms\lab_7.04.2023\lab_7.04.2023\bin\Debug\lab_7.04.2023.exe.config
+C:\Step\2year\WinForms\lab_7.04.2023\lab_7.04.2023\bin\Debug\lab_7.04.2023.exe
+C:\Step\2year\WinForms\lab_7.04.2023\lab_7.04.2023\bin\Debug\lab_7.04.2023.pdb
+C:\Step\2year\WinForms\lab_7.04.2023\lab_7.04.2023\obj\Debug\lab_7.04.2023.csproj.AssemblyReference.cache
+C:\Step\2year\WinForms\lab_7.04.2023\lab_7.04.2023\obj\Debug\lab_7.04.2023.csproj.SuggestedBindingRedirects.cache
+C:\Step\2year\WinForms\lab_7.04.2023\lab_7.04.2023\obj\Debug\lab_7._04._2023.Form1.resources
+C:\Step\2year\WinForms\lab_7.04.2023\lab_7.04.2023\obj\Debug\lab_7._04._2023.Properties.Resources.resources
+C:\Step\2year\WinForms\lab_7.04.2023\lab_7.04.2023\obj\Debug\lab_7.04.2023.csproj.GenerateResource.cache
+C:\Step\2year\WinForms\lab_7.04.2023\lab_7.04.2023\obj\Debug\lab_7.04.2023.csproj.CoreCompileInputs.cache
+C:\Step\2year\WinForms\lab_7.04.2023\lab_7.04.2023\obj\Debug\lab_7.04.2023.exe
+C:\Step\2year\WinForms\lab_7.04.2023\lab_7.04.2023\obj\Debug\lab_7.04.2023.pdb

@@ -12,6 +12,8 @@ namespace BestOil
 {
     public partial class Form3 : Form
     {
+        public float value { set; get; }
+
         public Form3()
         {
             InitializeComponent();

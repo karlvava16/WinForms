@@ -23,14 +23,18 @@ namespace BestOil
         {
             gasStation = new Form2();
             DialogResult result = gasStation.ShowDialog();
-
+            
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             caffe = new Form3();
-
             DialogResult result = caffe.ShowDialog();
+
+        }
+
+        private void BestOil_Load(object sender, EventArgs e)
+        {
 
         }
     }
