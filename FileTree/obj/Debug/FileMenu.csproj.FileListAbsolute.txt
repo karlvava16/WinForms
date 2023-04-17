@@ -1,0 +1,21 @@
+C:\Users\solt2\OneDrive\Робочий стіл\step\Курс 2\WinForms\FileMenu\bin\Debug\FileMenu.exe.config
+C:\Users\solt2\OneDrive\Робочий стіл\step\Курс 2\WinForms\FileMenu\bin\Debug\FileMenu.exe
+C:\Users\solt2\OneDrive\Робочий стіл\step\Курс 2\WinForms\FileMenu\bin\Debug\FileMenu.pdb
+C:\Users\solt2\OneDrive\Робочий стіл\step\Курс 2\WinForms\FileMenu\obj\Debug\FileMenu.csproj.AssemblyReference.cache
+C:\Users\solt2\OneDrive\Робочий стіл\step\Курс 2\WinForms\FileMenu\obj\Debug\FileMenu.Form1.resources
+C:\Users\solt2\OneDrive\Робочий стіл\step\Курс 2\WinForms\FileMenu\obj\Debug\FileMenu.Properties.Resources.resources
+C:\Users\solt2\OneDrive\Робочий стіл\step\Курс 2\WinForms\FileMenu\obj\Debug\FileMenu.csproj.GenerateResource.cache
+C:\Users\solt2\OneDrive\Робочий стіл\step\Курс 2\WinForms\FileMenu\obj\Debug\FileMenu.csproj.CoreCompileInputs.cache
+C:\Users\solt2\OneDrive\Робочий стіл\step\Курс 2\WinForms\FileMenu\obj\Debug\FileMenu.exe
+C:\Users\solt2\OneDrive\Робочий стіл\step\Курс 2\WinForms\FileMenu\obj\Debug\FileMenu.pdb
+C:\Users\vlad0\Downloads\WinForms-main\WinForms-main\FileMenu\bin\Debug\FileMenu.exe.config
+C:\Users\vlad0\Downloads\WinForms-main\WinForms-main\FileMenu\bin\Debug\FileMenu.exe
+C:\Users\vlad0\Downloads\WinForms-main\WinForms-main\FileMenu\bin\Debug\FileMenu.pdb
+C:\Users\vlad0\Downloads\WinForms-main\WinForms-main\FileMenu\obj\Debug\FileMenu.csproj.AssemblyReference.cache
+C:\Users\vlad0\Downloads\WinForms-main\WinForms-main\FileMenu\obj\Debug\FileMenu.csproj.SuggestedBindingRedirects.cache
+C:\Users\vlad0\Downloads\WinForms-main\WinForms-main\FileMenu\obj\Debug\FileMenu.Form1.resources
+C:\Users\vlad0\Downloads\WinForms-main\WinForms-main\FileMenu\obj\Debug\FileMenu.Properties.Resources.resources
+C:\Users\vlad0\Downloads\WinForms-main\WinForms-main\FileMenu\obj\Debug\FileMenu.csproj.GenerateResource.cache
+C:\Users\vlad0\Downloads\WinForms-main\WinForms-main\FileMenu\obj\Debug\FileMenu.csproj.CoreCompileInputs.cache
+C:\Users\vlad0\Downloads\WinForms-main\WinForms-main\FileMenu\obj\Debug\FileMenu.exe
+C:\Users\vlad0\Downloads\WinForms-main\WinForms-main\FileMenu\obj\Debug\FileMenu.pdb
