@@ -40,8 +40,8 @@ namespace hw_20._04._2023
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Match match = Regex.Match(listBox1.SelectedItems[0].ToString(), @"(\w+\\t\\t\\t\\t)(\d+)");
-            MessageBox.Show(match.Groups[1].Value);
+            Match match = Regex.Match(listBox1.SelectedItem.ToString(), @"(\w+\t\t\t\t)(\d+)");
+            MessageBox.Show(match.Groups[2].Value);
 
             foreach (var process in processes)
             {
