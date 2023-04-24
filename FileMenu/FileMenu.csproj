@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AEE3E299-2897-42F8-8194-BB022CA82D39}</ProjectGuid>
+    <ProjectGuid>{2C9D9F73-5D0F-40F9-A98B-08ADDDDFE231}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>hw_18._04._2023</RootNamespace>
-    <AssemblyName>hw_18.04.2023</AssemblyName>
-    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <RootNamespace>FileMenu</RootNamespace>
+    <AssemblyName>FileMenu</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
