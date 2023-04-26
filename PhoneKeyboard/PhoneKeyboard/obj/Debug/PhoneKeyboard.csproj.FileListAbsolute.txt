@@ -1,0 +1,11 @@
+C:\Step\2year\WinForms\PhoneKeyboard\PhoneKeyboard\bin\Debug\PhoneKeyboard.exe.config
+C:\Step\2year\WinForms\PhoneKeyboard\PhoneKeyboard\bin\Debug\PhoneKeyboard.exe
+C:\Step\2year\WinForms\PhoneKeyboard\PhoneKeyboard\bin\Debug\PhoneKeyboard.pdb
+C:\Step\2year\WinForms\PhoneKeyboard\PhoneKeyboard\obj\Debug\PhoneKeyboard.csproj.AssemblyReference.cache
+C:\Step\2year\WinForms\PhoneKeyboard\PhoneKeyboard\obj\Debug\PhoneKeyboard.csproj.SuggestedBindingRedirects.cache
+C:\Step\2year\WinForms\PhoneKeyboard\PhoneKeyboard\obj\Debug\PhoneKeyboard.Form1.resources
+C:\Step\2year\WinForms\PhoneKeyboard\PhoneKeyboard\obj\Debug\PhoneKeyboard.Properties.Resources.resources
+C:\Step\2year\WinForms\PhoneKeyboard\PhoneKeyboard\obj\Debug\PhoneKeyboard.csproj.GenerateResource.cache
+C:\Step\2year\WinForms\PhoneKeyboard\PhoneKeyboard\obj\Debug\PhoneKeyboard.csproj.CoreCompileInputs.cache
+C:\Step\2year\WinForms\PhoneKeyboard\PhoneKeyboard\obj\Debug\PhoneKeyboard.exe
+C:\Step\2year\WinForms\PhoneKeyboard\PhoneKeyboard\obj\Debug\PhoneKeyboard.pdb
