@@ -21,7 +21,7 @@ namespace Classwork
             {
                 int a = 10;
                 int* ptr = &a;
-                Console.WriteLine((long)a);
+                Console.WriteLine((long)(a));
             }
         }
 
