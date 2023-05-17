@@ -1,0 +1,12 @@
+C:\Step\2year\WinForms\Battleship\Battleship\bin\Debug\Battleship.exe.config
+C:\Step\2year\WinForms\Battleship\Battleship\bin\Debug\Battleship.exe
+C:\Step\2year\WinForms\Battleship\Battleship\bin\Debug\Battleship.pdb
+C:\Step\2year\WinForms\Battleship\Battleship\obj\Debug\Battleship.csproj.AssemblyReference.cache
+C:\Step\2year\WinForms\Battleship\Battleship\obj\Debug\Battleship.csproj.SuggestedBindingRedirects.cache
+C:\Step\2year\WinForms\Battleship\Battleship\obj\Debug\Battleship.Menu.resources
+C:\Step\2year\WinForms\Battleship\Battleship\obj\Debug\Battleship.Properties.Resources.resources
+C:\Step\2year\WinForms\Battleship\Battleship\obj\Debug\Battleship.csproj.GenerateResource.cache
+C:\Step\2year\WinForms\Battleship\Battleship\obj\Debug\Battleship.csproj.CoreCompileInputs.cache
+C:\Step\2year\WinForms\Battleship\Battleship\obj\Debug\Battleship.exe
+C:\Step\2year\WinForms\Battleship\Battleship\obj\Debug\Battleship.pdb
+C:\Step\2year\WinForms\Battleship\Battleship\obj\Debug\Battleship.Main.resources
